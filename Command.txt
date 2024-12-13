@@ -6,3 +6,5 @@ git add Info/   - this will add all contents of the folder
 git config user.name BeckhamThompson_INFO  -changes the username to "BeckhamThompson_Info"
 
 
+the git status says that MyFile.txt was modified so i would add the changes to the staging area and then commit
+
