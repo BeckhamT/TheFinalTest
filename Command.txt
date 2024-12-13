@@ -1,0 +1,8 @@
+git innit
+git add MyFile.txt
+
+git add Info/   - this will add all contents of the folder
+
+git config user.name BeckhamThompson_INFO  -changes the username to "BeckhamThompson_Info"
+
+
